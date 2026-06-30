@@ -1,0 +1,12 @@
+BASE_URL = "https://opensource-demo.orangehrmlive.com/web/index.php/"
+DASHBOARD_URL = f"{BASE_URL}dashboard/index"
+ADMIN_URL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers"
+USERNAME = "Admin"
+PASSWORD = "admin123"
+INVALID_USERNAME = "NEEVA"
+INVALID_PASSWORD = "NEEVA@123"
+UPPERCASE_USERNAME = USERNAME.upper()
+UPPERCASE_PASSWORD = PASSWORD.upper()
+EMPLOYEE="OTSI  Automation"
+STATUS="Enabled"
+ROLE="Admin"
